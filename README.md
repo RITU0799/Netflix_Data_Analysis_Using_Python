@@ -3,7 +3,9 @@
 This project focuses on analyzing Netflix viewing patterns and user behavior using Python. The goal is to extract meaningful insights from Netflix's dataset to understand content popularity, user preferences, and trends over time. The project involves Data Wrangling, Exploratory Data Analysis (EDA), and Visualizations to help answer key business questions, such as:
 
 Which content genres are most popular across different regions?
+
 How has Netflix's content library evolved over time?
+
 What are the viewing habits of users, and how can they inform content recommendations?
 
 Key Features:
@@ -23,7 +25,9 @@ Tools & Libraries:
 How to Use:
 
 Clone the repository: git clone https://github.com/yourusername/Netflix_Data_Analysis_Using_Python.git
+
 Install the required libraries: pip install -r requirements.txt
+
 Run the Jupyter notebook to follow along with the analysis.
 
 Conclusion:
